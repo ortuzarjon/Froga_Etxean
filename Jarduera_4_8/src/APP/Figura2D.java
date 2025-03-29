@@ -26,6 +26,7 @@ public class Figura2D {
 	}
 
 	public float getAltuera() {
+		
 		return altuera;
 	}
 
